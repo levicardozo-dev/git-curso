@@ -3,3 +3,6 @@ teste do git
 teste 2 edição
 
 teste 2 edição
+
+
+teste 3 edição
